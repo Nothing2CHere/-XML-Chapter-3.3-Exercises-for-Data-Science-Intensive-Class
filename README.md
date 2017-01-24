@@ -1,5 +1,8 @@
 # -XML-Chapter-3.3-Exercises-for-Data-Science-Intensive-Class
 
+Answers read better in edit mode
+
+
 # 1. 10 countries with the lowest infant mortality rates					
 import pandas as pd					
 document = ET.parse( './data/mondial_database.xml' )					
